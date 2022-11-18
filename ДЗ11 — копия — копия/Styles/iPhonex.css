@@ -1,0 +1,339 @@
+@media screen and (max-width: 376px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container_m {
+        display: grid;
+        grid-template-columns: 373px;
+        grid-template-rows: 275px 1356px 360px;
+        margin-left: 0px;
+        height: 1948px;
+    }
+
+    .header {
+        width: 373px;
+        height: 275px;
+        background-image: url(Images/bg.png);
+        padding-top: 20px;
+        background-repeat: no-repeat;
+        background-size: 373px 275px;
+    }
+
+    .collapse {
+        display: none;
+    }
+
+    .navbar-brand {
+        font-size: 28px;
+        margin-top: -5px;
+    }
+
+    .navbar {
+        font-family: 'Kanit', sans-serif;
+        margin-left: 118px;
+        margin-top: -42px;
+    }
+
+    .navbar-nav {
+        display: none;
+        margin-left: 263px;
+        margin-top: -6px;
+    }
+
+    .nav-link {
+        display: none;
+        margin-left: 41px;
+    }
+
+    .T1 {
+        margin-left: 78px;
+        margin-top: 26.5px;
+    }
+
+    .text1 {
+        font-size: 20px;
+    }
+
+    .text2 {
+        margin-top: -5.5px;
+        font-size: 13.5px;
+        margin-left: 18px;
+    }
+
+    .text3 {
+        margin-top: 36.5px;
+        font-size: 13.5px;
+        margin-left: 69px;
+    }
+
+    .main {
+        grid-row-start: 2;
+        grid-row-end: 2;
+    }
+
+    .section1 {
+        height: 335px;
+        padding-top: 25px;
+    }
+
+    .h1 {
+        font-size: 24.5px;
+        margin-left: 151px;
+    }
+
+    .T2 {
+        font-size: 12.2px;
+        margin-left: 35px;
+        margin-top: 16px;
+        width: 313px;
+    }
+
+    .text4 {
+        line-height: 15.5px;
+    }
+
+    .text5 {
+        margin-top: -2px;
+        line-height: 15.2px;
+    }
+
+    .h2 {
+        font-size: 24.5px;
+        margin-left: 159px;
+
+    }
+
+    .section2 {
+        height: 617px;
+        background: #FFFAF2;
+        padding-top: 25px;
+        margin-top: -42px;
+    }
+
+    .img {
+        width: 224px;
+        height: 218px;
+        background-image: url(Images/Profile\ Picture.png);
+        margin-top: 24px;
+        margin-left: 71px;
+        background-size: 224px 218px;
+        background-repeat: no-repeat;
+    }
+
+    .line1 {
+        margin-left: 35px;
+        margin-top: 25px;
+    }
+
+    .l1 {
+        font-size: 12px;
+    }
+
+    .l2 {
+        margin-left: 58px;
+        font-size: 12.5px;
+    }
+
+    .list {
+        font-size: 13.5px;
+        margin-left: 33px;
+        margin-top: 33px;
+        display: none;
+    }
+
+    .list_IP {
+        font-size: 13.5px;
+        margin-left: 33px;
+        margin-top: 9px;
+        display: block;
+    }
+
+    .progress {
+        width: 211px;
+        margin-left: 132px;
+        margin-top: -70.3px;
+        height: 19px;
+    }
+
+    .progress2 {
+        margin-top: -97.45px;
+    }
+
+    .progress3 {
+        margin-top: -95px;
+    }
+
+    .cl {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .tt1 {
+        margin-top: 41px;
+    }
+
+    .tt2 {
+        margin-top: 43px;
+    }
+
+    .tt3 {
+        margin-top: 16px;
+    }
+
+    .text6 {
+        font-size: 12.5px;
+        margin-left: 131px;
+    }
+
+    .section3 {
+        height: 404px;
+    }
+
+    .h4 {
+        margin-left: 140px;
+        margin-top: 25px;
+        font-size: 24px;
+    }
+
+    .h5 {
+        margin-left: 139px;
+        margin-top: 22px;
+        font-size: 16px;
+    }
+
+    .text7 {
+        font-size: 12px;
+        margin-left: 29px;
+        margin-top: 16px;
+        width: 315px;
+        text-align: center;
+        line-height: 16px;
+    }
+
+    .images {
+        width: 310px;
+        margin-left: 34px;
+        margin-top: 25px;
+    }
+
+    .image1 {
+        width: 169.76px;
+        height: 69.85px;
+        background-size: 169.76px 69.85px;
+        background-image: url(Images/Rectangle.png);
+    }
+
+    .images2 {
+        margin-left: 185px;
+        margin-top: -196px;
+    }
+
+    .image2 {
+        margin-top: 12px;
+        width: 170.01px;
+        height: 114.28px;
+        background-size: 170.01px 169.28px;
+        background-image: url(Images/Rectangle1.png);
+        background-repeat: no-repeat;
+    }
+
+    .image3 {
+        width: 123.07px;
+        height: 113.89px;
+        background-size: 176.07px 116.89px;
+        background-image: url(Images/Mask\ Group.png);
+    }
+
+    .image4 {
+        margin-top: 12px;
+        width: 123.69px;
+        height: 69.85px;
+        background-size: 123.69px 69.85px;
+        background-image: url(Images/Rectangle2.png);
+    }
+
+    .arrows {
+        display: none;
+    }
+
+    i {
+        border: solid black;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        padding: 3px;
+    }
+
+    .right {
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+    }
+
+    .left {
+        transform: rotate(135deg);
+        -webkit-transform: rotate(135deg);
+    }
+
+    .footer {
+        background: #FFFAF2;
+        padding-top: 26px;
+        margin-top: -43px;
+        height: 360px;
+    }
+
+    .h3 {
+        font-size: 25px;
+        margin-left: 121px;
+    }
+
+    .list2 {
+        display: flex;
+        font-size: 14px;
+        margin-left: 42px;
+        margin-top: 22px;
+        justify-content: space-around;
+        flex-direction: column;
+    }
+
+    .list3 {
+        display: flex;
+        font-size: 14px;
+        margin-left: 202px;
+        margin-top: -198px;
+        justify-content: space-around;
+        flex-direction: column;
+        line-height: 28px;
+    }
+
+    .list4 {
+        font-size: 14px;
+        margin-left: 42px;
+        margin-top: 48px;
+        line-height: 8px;
+    }
+
+    .ar {
+        margin-top: -231px;
+    }
+
+    .up {
+        transform: rotate(-135deg);
+        -webkit-transform: rotate(-135deg);
+        margin-left: 321.5px
+    }
+
+    .nav_menu {
+        display: block;
+    }
+
+    .button {
+        width: 28px;
+        height: 27px;
+        margin-left: 30px;
+        margin-top: 16px;
+        background: none;
+        cursor: pointer;
+    }
+}
